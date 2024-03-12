@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main (void){
+	float c, m;
+	
+	printf("Digite a quantidade de metros: ");
+	scanf("%f", &m);
+	
+	c = m * 100;
+	
+	printf("%.2f metros e %.2f cetimetros", m, c);
+	
+	return(0);
+}
