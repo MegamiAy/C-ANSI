@@ -16,7 +16,7 @@ int main (void){
 	scanf("%f", &r1);
 	
 	// Processo
-	a = n1 * 2 + n2 / 2;
+	a = n1 * 2 + (float)n2 / 2;
 	b = n1 * 3 + r1;
 	c = r1 * r1 * r1;
 	
