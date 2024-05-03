@@ -84,7 +84,7 @@
         // Bloco de código a ser repetido
     }
 
-* **exemplo de while** que imprime os números de 1 a 5:
+**exemplo de while** que imprime os números de 1 a 5:
 
       int main() {
         int i = 1;
@@ -99,9 +99,9 @@
 
 * **Condição:** enquanto i for menor ou igual a 5, o bloco de código será executado.
 
-### do while
+### do-while
 
- `DO-WHILE` - no do-while, o bloco de código é executado pelo menos uma vez antes que a condição seja verificada. Ou seja, mesmo se a condição do loop for falsa desde o início, o bloco de código será executado pelo menos uma vez.
+ `DO WHILE` - no do-while, o bloco de código é executado pelo menos uma vez antes que a condição seja verificada. Ou seja, mesmo se a condição do loop for falsa desde o início, o bloco de código será executado pelo menos uma vez.
 * pós-ordenado.
 
 **sintaxe geral do laço:**
@@ -110,7 +110,7 @@
         // Bloco de código a ser repetido
     } while (condição);
 
-* **exemplo de while** que imprime os números de 1 a 5:
+**exemplo de while** que imprime os números de 1 a 5:
 
       int main() {
           int i = 1;
